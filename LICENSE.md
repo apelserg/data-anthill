@@ -1,12 +1,10 @@
-﻿WTFPL – Do What the Fuck You Want to Public License
-
-http://www.wtfpl.net/
+﻿http://www.wtfpl.net/
 
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 
                    Version 2, December 2004
 
-Copyright (C) 2015 apelserg <apelserg@mail.ru>
+Copyright (C) 2015 <apelserg@mail.ru>, http://apelserg.ru/
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
